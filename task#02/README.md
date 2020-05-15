@@ -29,4 +29,5 @@ https://youtu.be/dWJeWLNY8iU
 **Grenzen:** Adobe XD hat keinen CSS Export. Diese Funktion würde es sehr einfach machen einen Entwurf direkt in eine CSS Datei umzuwandeln und auf der zu entwickelnden Website direkt einzubinden.
 
 # Aufgabe 2.2 
-! [https://raw.githubusercontent.com/FabianFlaig/IFD-SoSe20/master/task%2302/scribble.jpeg]
+![](https://raw.githubusercontent.com/FabianFlaig/IFD-SoSe20/master/task%2302/scribble.jpeg)
+
