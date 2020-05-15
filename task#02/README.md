@@ -25,3 +25,4 @@ Im vergleich zu anderen Adobe Anwendungen ist XD relativ übersichtlich und einf
 **Beispiel eines Clickdummys:**
 https://youtu.be/dWJeWLNY8iU
 
+**Grenzen:** Adobe XD hat keinen CSS Export. Diese Funktion würde es sehr einfach machen einen Entwurf direkt in eine CSS Datei umzuwandeln und auf der zu entwickelnden Website direkt einzubinden.
