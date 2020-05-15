@@ -20,3 +20,8 @@ src: https://raw.githubusercontent.com/FabianFlaig/IFD-SoSe20/master/task%2302/x
 
 Komplexität:
 Im vergleich zu anderen Adobe Anwendungen ist XD relativ übersichtlich und einfach zu bedienen, jedoch für Einsteiger oder branchenfremde eher ungeeignet. Es gibt etliche Add-Ons von Drittanbietern um Zusammenarbeit, Automatisierung, Benutzerfreundlichkeit und Publishing zu erweitern.
+
+Beispiel eines Clickdummys:
+![](https://youtu.be/dWJeWLNY8iU)
+src: https://youtu.be/dWJeWLNY8iU
+
