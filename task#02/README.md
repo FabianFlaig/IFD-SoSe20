@@ -15,6 +15,7 @@ Visualisierung: Wir stufen die visualisierbarkeit als sehr gut ein. Es gibt umfa
 src: https://i.pinimg.com/564x/37/dc/2a/37dc2aff84509aebc0a9f6b50ebfc706.jpg
 
 Inhaltsentwicklung: Es gibt nicht viele möglichkeiten zur Inhaltsentwicklung. Inhalte müssen manuell eingefügt werden und es gibt nativ keine Möglichkeiten zur Einbindung von Content-Management-Systemen o.ä.
-
+![](https://raw.githubusercontent.com/FabianFlaig/IFD-SoSe20/master/task%2302/xdaddons.PNG)
+src: https://raw.githubusercontent.com/FabianFlaig/IFD-SoSe20/master/task%2302/xdaddons.PNG
 Komplexität:
 Im vergleich zu anderen Adobe Anwendungen ist XD relativ übersichtlich und einfach zu bedienen, jedoch für Einsteiger oder branchenfremde eher ungeeignet. Es gibt etliche Add-Ons von Drittanbietern um Zusammenarbeit, Automatisierung, Benutzerfreundlichkeit und Publishing zu erweitern.
