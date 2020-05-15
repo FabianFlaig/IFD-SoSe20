@@ -7,7 +7,8 @@ Adobe XD ist ein Tool zum Design und Prototyping von Websiten, Apps, Voice UI un
 Fidelity:
 Interaktivität: Die Interaktivität von Adobe XD bewerten wir als mittel.
 Durch die Vernetzung von Zeichenflächen können interaktive Prototypen erstellt werden. Außerdem lassen sich Sprachunterstützung, Animationen und Zieh-Gesten in Prototypen einbinden.
-![Quelle:https://www.bigradar.io/blog/wp-content/uploads/2020/04/adobe-xd.jpg](https://www.bigradar.io/blog/wp-content/uploads/2020/04/adobe-xd.jpg)
+![](https://www.bigradar.io/blog/wp-content/uploads/2020/04/adobe-xd.jpg)
+src:https://www.bigradar.io/blog/wp-content/uploads/2020/04/adobe-xd.jpg
 Visualisierung: Wir stufen die visualisierbarkeit als sehr gut ein. Es gibt umfangreiche Designwerkzeuge und Designelemente können problemlos aus anderen Adobe Anwendungen kopiert und eingefügt werden.
 
 Inhaltsentwicklung: Es gibt nicht viele möglichkeiten zur Inhaltsentwicklung. Inhalte müssen manuell eingefügt werden und es gibt nativ keine Möglichkeiten zur Einbindung von Content-Management-Systemen o.ä.
