@@ -9,7 +9,10 @@ Interaktivität: Die Interaktivität von Adobe XD bewerten wir als mittel.
 Durch die Vernetzung von Zeichenflächen können interaktive Prototypen erstellt werden. Außerdem lassen sich Sprachunterstützung, Animationen und Zieh-Gesten in Prototypen einbinden.
 ![](https://www.bigradar.io/blog/wp-content/uploads/2020/04/adobe-xd.jpg)
 src:https://www.bigradar.io/blog/wp-content/uploads/2020/04/adobe-xd.jpg
+
 Visualisierung: Wir stufen die visualisierbarkeit als sehr gut ein. Es gibt umfangreiche Designwerkzeuge und Designelemente können problemlos aus anderen Adobe Anwendungen kopiert und eingefügt werden.
+![](https://i.pinimg.com/564x/37/dc/2a/37dc2aff84509aebc0a9f6b50ebfc706.jpg)
+src: https://i.pinimg.com/564x/37/dc/2a/37dc2aff84509aebc0a9f6b50ebfc706.jpg
 
 Inhaltsentwicklung: Es gibt nicht viele möglichkeiten zur Inhaltsentwicklung. Inhalte müssen manuell eingefügt werden und es gibt nativ keine Möglichkeiten zur Einbindung von Content-Management-Systemen o.ä.
 
