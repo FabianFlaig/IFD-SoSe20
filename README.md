@@ -10,4 +10,4 @@ IFD 2020
 
 [TASK #03 - Hi-Fid Prototype](http://ifdtask3.fabianflaig.de/)
 
-[TASK #04 - VUI](https://github.com/FabianFlaig/IFD-SoSe20/task#04/)
+[TASK #04 - VUI](https://github.com/FabianFlaig/IFD-SoSe20/tree/master/task%2304/VUI)
