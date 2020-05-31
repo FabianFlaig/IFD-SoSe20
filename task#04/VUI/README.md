@@ -1,4 +1,4 @@
 # Aufgabe 4
 ## VUI
-![](task#04/VUI/flowchart012.jpg)
+![](flowchart012.jpg)
 [Zum Prototyp](https://htmlpreview.github.io/?https://github.com/FabianFlaig/IFD-SoSe20/blob/master/task%2304/VUI/playground-artyom.html)
