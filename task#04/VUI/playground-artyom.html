@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Playgroud Artyom</title>
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+</head>
+<body>
+    <p>Stelle mir verschiedene Fragen wie z.B. <br> 
+    Wie sind die Stückahlen heute? <br>
+    Wie waren die Stückzahlen gestern / letzte Woche / letzten Monat?<br>
+
+    Wie hoch ist/war der Ausschuss heute / gestern/...?<br>
+
+    Wie hoch sind/waren die verschleißkosten heute / gestern/...?<br>
+
+    Wie viele Krankmeldungen gibt / gab es heute / gestern/...?<br>
+
+    Leite wichtige Zahlen an Johnny oder Sabine weiter ("sende das an *")<br>
+    </p>
+
+    <button id="btn">Allow Voice Synthesis</button>
+
+    <style>
+   body{
+       font-family: arial;
+   }
+
+    </style>
+    <script>
+        var Jarvis = new Artyom();
+        
+        // Needed user interaction at least once in the website to make
+        // it work automatically without user interaction later... thanks google .i.
+        document.getElementById("btn").addEventListener("click", function(){
+        Jarvis.say("Yes?");
+        }, false);
+    </script>
+</body>
+</html>
