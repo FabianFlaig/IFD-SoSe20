@@ -1,8 +1,8 @@
 # Google Cardboard Dokumentation
 
 ![](screenshot.PNG)
-![](screenshot1.PNG)
 ![](screenshot2.PNG)
+![](screenshot3.PNG)
 
 ![](_FLG6530.jpg)
 ![](_FLG6532.jpg)
