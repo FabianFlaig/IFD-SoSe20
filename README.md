@@ -15,3 +15,6 @@ IFD 2020
 [TASK #05 - VUI](https://youtu.be/bRJI5nLChBI)
 
 [TASK #06 - Google Cardboard](https://github.com/FabianFlaig/IFD-SoSe20/tree/master/task%2306)
+
+[TASK #07 - VR Vorlesung](https://github.com/FabianFlaig/IFD-SoSe20/blob/master/task%2307/reade.md)
+
