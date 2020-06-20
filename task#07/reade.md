@@ -20,4 +20,5 @@ Anhand der Online-Vorlesungs Erfahrungen die in wir alle in den letzten Monaen g
 
 [![Watch the video](https://youtu.be/Y_TZY4bFVrw](https://youtu.be/Y_TZY4bFVrw)
 
+[![Video Prototyp](http://img.https://youtu.be/Y_TZY4bFVrw/0.jpg)](https://youtu.be/Y_TZY4bFVrw](https://youtu.be/Y_TZY4bFVrw "Video Prototyp")
 
