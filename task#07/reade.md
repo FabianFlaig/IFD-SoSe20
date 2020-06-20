@@ -18,5 +18,6 @@ Anhand der Online-Vorlesungs Erfahrungen die in wir alle in den letzten Monaen g
 
 ## Video Prototyp
 
-[![Video Prototyp](http://img.https://youtu.be/Y_TZY4bFVrw/1.jpg)](https://youtu.be/Y_TZY4bFVrw](https://youtu.be/Y_TZY4bFVrw "Video Prototyp")
+[![Video Prototyp](http://img.youtube.com/vi/Y_TZY4bFVrw/0.jpg)](http://www.youtube.com/watch?v=Y_TZY4bFVrw "Video Prototyp")
+
 
