@@ -16,8 +16,8 @@ Anhand der Online-Vorlesungs Erfahrungen die in wir alle in den letzten Monaen g
 ## Umsetzung in PS
 ![PS](task7_02.png)
 
-## Umsetzung in PS
+## Video Prototyp
 
-        <iframe width="560" height="315" src="https://youtu.be/Y_TZY4bFVrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://youtu.be/Y_TZY4bFVrw](https://youtu.be/Y_TZY4bFVrw)
 
 
