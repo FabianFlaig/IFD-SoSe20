@@ -18,4 +18,4 @@ IFD 2020
 
 [TASK #07 - VR Vorlesung](https://github.com/FabianFlaig/IFD-SoSe20/blob/master/task%2307/reade.md)
 
-[TASK #08 - VR Vorlesung HI-FID] (https://fabianflaig.bplaced.net/ifd/)
+[TASK #07 - VR Vorlesung hi-fid](https://fabianflaig.bplaced.net/ifd/)
