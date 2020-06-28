@@ -1,0 +1,34 @@
+.image {
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.mask {
+  width: auto;
+  height: auto;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.slide-nav {
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+}
+
+.slider {
+  width: 450px;
+  height: auto;
+  margin-top: -598px;
+  margin-right: auto;
+  margin-left: 531px;
+  box-shadow: -14px 10px 10px -2px rgba(0, 0, 0, 0.33);
+}
+
+.background-video {
+  width: 1280px;
+  height: 720px;
+  margin-right: auto;
+  margin-left: auto;
+}
