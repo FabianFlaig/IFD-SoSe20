@@ -6,5 +6,5 @@ Bei meinem Konzept bekommt jeder, der die Hochschule betritt ein Armband, das zu
 
 [tinkercard screencast](https://youtu.be/_D7ru1RB8ds "tinkercard screencast")
 
-
+Der Einfachheit halber habe ich mich beim Coding an den Codeblocks von Tinkercard bedient
 ![code](code.PNG)
