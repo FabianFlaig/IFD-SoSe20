@@ -25,3 +25,9 @@ aber die Art das Instument zu bedienen finde ich trotzdem interesant und auch fu
 "Theremine arbeiten nach dem Prinzip eines kapazitiven Abstandssensors. Die Hand des Spielers, der durch seine eigene Masse als Erdung fungiert, verändert über die jeweilige Elektrode („Antenne“) den LC-Schwingkreis eines Oszillators: 
 Er beeinflusst sowohl die Frequenz als auch die Güte des Schwingkreises, indem er den kapazitiven Anteil des Schwingkreises und dessen Dämpfung beeinflusst." (Wikipedia)
 
+## Mind controlled Car
+
+Mein letztes futuristic Interface ist aus einem Video von Michael Reeves [Youtube Video](https://www.youtube.com/watch?v=mPbtR4vorgY)
+Er nutzt ein "Spielzeug" um seine Gehirnströme zu messen und wenn er sich genug konzentriert löst ein Pneumatischer Kolben aus der auf das Gaspedal drückt.
+
+![theremin](car.PNG)
