@@ -5,5 +5,5 @@ Ich habe mich dazu entschieden den Prototypen aus Aufgabe 3 weiter zu entwickeln
 
 
 
-![alt text](customerjourneymap.png "Customer Journey)
+![alt text](customerjourneymap.png "Customer Journey")
 
