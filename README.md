@@ -1,6 +1,7 @@
 IFD 2020
 
 
+[ENDABGABE](https://github.com/FabianFlaig/IFD-SoSe20/tree/master/endabgabe)
 
 [TASK #01 - swat](https://github.com/FabianFlaig/IFD-SoSe20/blob/master/200428_ifd_swot.pdf)
 
